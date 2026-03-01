@@ -30,3 +30,20 @@ Currently in development. Personal use only.
 ## API Access
 
 This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.
+
+## Roadmap
+
+- [ ] Etsy OAuth authentication
+- [ ] Basic listing data pull
+- [ ] Sales history tracking
+- [ ] Price optimization recommendations
+- [ ] Multi-shop inventory view
+- [ ] Simple dashboard UI
+
+## Development Setup
+
+See [docs/setup.md](docs/setup.md) for installation instructions.
+
+## Project Status
+
+Early development. API integration in progress.
