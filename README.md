@@ -30,7 +30,6 @@ Currently in development. Personal use only.
 ## API Access
 
 This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.
-```
 
 **LICENSE**
 ```
